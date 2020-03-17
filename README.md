@@ -1,2 +1,5 @@
 # Single-Phase-Shunt-Active-Power-Filter-Using-Parabolic-PWM
 Repo of one of my papers on power electronics and control
+Link: https://ieeexplore.ieee.org/document/8859868
+Abstract:
+Shunt active power filter (SAPF) is the best solution to minimize the problem of harmonics in the power systems, but its effectiveness is strictly dependent on how quickly and accurately its control algorithms can perform. In this paper, parabolic carrier-based pulse-width modulation (PWM) method is applied for current control in a voltage-source converter (VSC) based single phase Shunt Active Power Filter. This technique employs a pair of parabolic PWM carriers (a positive one and a negative one) to determine the switching states of the two switches in a converter phase leg while limiting the current tracking error within nonlinear parabolic band. In addition, PI controller with self-charging technique to regulate the dc-bus voltage of the SAPF. The proposed single phase SAPF can compensate harmonic currents and improve power factor. In this paper, the design concept of the proposed SAPF is verified through Matlab-Simulink simulation study and the results obtained are discussed.
